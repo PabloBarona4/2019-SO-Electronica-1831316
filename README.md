@@ -1,4 +1,4 @@
-# Repositorio del curso de Sistemasperativos - Universidad del Valle
+# Repositorio del curso de SistemasOperativos - Universidad del Valle
 ## Autor Pablo Andrés Barona - 201831316
 
 ## Clase 2019_05_23
