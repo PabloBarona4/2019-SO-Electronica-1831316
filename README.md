@@ -1,5 +1,5 @@
-# Repositorio del curso de Sistemas Operativos - Universidad del Valle
-## Autor Juan Pablo Pérez - 201712345
+# Repositorio del curso de Sistemasperativos - Universidad del Valle
+## Autor Pablo Andrés Barona - 201831316
 
 ## Clase 2019_05_23
 
